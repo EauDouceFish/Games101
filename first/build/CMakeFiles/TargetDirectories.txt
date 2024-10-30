@@ -1,0 +1,3 @@
+/home/cs18/Desktop/first/build/CMakeFiles/rebuild_cache.dir
+/home/cs18/Desktop/first/build/CMakeFiles/Transformation.dir
+/home/cs18/Desktop/first/build/CMakeFiles/edit_cache.dir
